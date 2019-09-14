@@ -4,7 +4,7 @@
 
 ```shell script
 $ git clone https://github.com/HackYeahBot/booker-front.git
-$ cd booker-front.git
+$ cd booker-front
 $ yarn 
 $ yarn dev
 ```
