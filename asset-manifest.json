@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/booker-front/static/css/main.2cce8147.chunk.css",
+    "main.js": "/booker-front/static/js/main.38a1cdfb.chunk.js",
+    "main.js.map": "/booker-front/static/js/main.38a1cdfb.chunk.js.map",
+    "runtime~main.js": "/booker-front/static/js/runtime~main.90c4134e.js",
+    "runtime~main.js.map": "/booker-front/static/js/runtime~main.90c4134e.js.map",
+    "static/js/2.de48b89d.chunk.js": "/booker-front/static/js/2.de48b89d.chunk.js",
+    "static/js/2.de48b89d.chunk.js.map": "/booker-front/static/js/2.de48b89d.chunk.js.map",
+    "index.html": "/booker-front/index.html",
+    "precache-manifest.778bbba7d540d98899bb8a46e471268f.js": "/booker-front/precache-manifest.778bbba7d540d98899bb8a46e471268f.js",
+    "service-worker.js": "/booker-front/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/booker-front/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/booker-front/static/media/logo.5d5d9eef.svg"
+  }
+}
