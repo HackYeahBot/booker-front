@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/booker-front/static/css/main.2cce8147.chunk.css",
-    "main.js": "/booker-front/static/js/main.3d7dd5e1.chunk.js",
-    "main.js.map": "/booker-front/static/js/main.3d7dd5e1.chunk.js.map",
+    "main.css": "/booker-front/static/css/main.b398dd0c.chunk.css",
+    "main.js": "/booker-front/static/js/main.592263b0.chunk.js",
+    "main.js.map": "/booker-front/static/js/main.592263b0.chunk.js.map",
     "runtime~main.js": "/booker-front/static/js/runtime~main.90c4134e.js",
     "runtime~main.js.map": "/booker-front/static/js/runtime~main.90c4134e.js.map",
-    "static/js/2.9153d7c3.chunk.js": "/booker-front/static/js/2.9153d7c3.chunk.js",
-    "static/js/2.9153d7c3.chunk.js.map": "/booker-front/static/js/2.9153d7c3.chunk.js.map",
+    "static/css/2.8c467cd4.chunk.css": "/booker-front/static/css/2.8c467cd4.chunk.css",
+    "static/js/2.b8965a22.chunk.js": "/booker-front/static/js/2.b8965a22.chunk.js",
+    "static/js/2.b8965a22.chunk.js.map": "/booker-front/static/js/2.b8965a22.chunk.js.map",
     "index.html": "/booker-front/index.html",
-    "precache-manifest.23566f01e86947aeba8b7f9c2b6ba55e.js": "/booker-front/precache-manifest.23566f01e86947aeba8b7f9c2b6ba55e.js",
+    "precache-manifest.bcc1ebf07292ac937b543f69c4315565.js": "/booker-front/precache-manifest.bcc1ebf07292ac937b543f69c4315565.js",
     "service-worker.js": "/booker-front/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/booker-front/static/css/main.2cce8147.chunk.css.map"
+    "static/css/2.8c467cd4.chunk.css.map": "/booker-front/static/css/2.8c467cd4.chunk.css.map",
+    "static/css/main.b398dd0c.chunk.css.map": "/booker-front/static/css/main.b398dd0c.chunk.css.map"
   }
 }
