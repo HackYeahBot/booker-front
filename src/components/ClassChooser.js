@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import qs from 'query-string';
 
-import ClassChooserCard from './ClassChooserCard';
+import Card from './Card';
 
 import './ClassChooser.css';
 
@@ -58,7 +58,7 @@ class ClassChooser extends Component {
       <div className='class-chooser'>
         <h2>SELECT CLASS THAT SUITS YOU BEST</h2>
         <div className="class-chooser__cards-list">
-          {config.map((item) => <ClassChooserCard key={item.title} onClick={this.handleOnCardClick} {...item}/>)}
+          {config.map((item) => <Card key={item.title} onClick={this.handleOnCardClick} {...item}/>)}
         </div>
       </div>
     );
