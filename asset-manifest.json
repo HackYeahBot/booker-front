@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/booker-front/static/css/main.b398dd0c.chunk.css",
-    "main.js": "/booker-front/static/js/main.7e42b691.chunk.js",
-    "main.js.map": "/booker-front/static/js/main.7e42b691.chunk.js.map",
+    "main.js": "/booker-front/static/js/main.592263b0.chunk.js",
+    "main.js.map": "/booker-front/static/js/main.592263b0.chunk.js.map",
     "runtime~main.js": "/booker-front/static/js/runtime~main.90c4134e.js",
     "runtime~main.js.map": "/booker-front/static/js/runtime~main.90c4134e.js.map",
     "static/css/2.8c467cd4.chunk.css": "/booker-front/static/css/2.8c467cd4.chunk.css",
     "static/js/2.b8965a22.chunk.js": "/booker-front/static/js/2.b8965a22.chunk.js",
     "static/js/2.b8965a22.chunk.js.map": "/booker-front/static/js/2.b8965a22.chunk.js.map",
     "index.html": "/booker-front/index.html",
-    "precache-manifest.125e5363251aed99fd9bbd3b588ccfd3.js": "/booker-front/precache-manifest.125e5363251aed99fd9bbd3b588ccfd3.js",
+    "precache-manifest.bcc1ebf07292ac937b543f69c4315565.js": "/booker-front/precache-manifest.bcc1ebf07292ac937b543f69c4315565.js",
     "service-worker.js": "/booker-front/service-worker.js",
     "static/css/2.8c467cd4.chunk.css.map": "/booker-front/static/css/2.8c467cd4.chunk.css.map",
     "static/css/main.b398dd0c.chunk.css.map": "/booker-front/static/css/main.b398dd0c.chunk.css.map"
