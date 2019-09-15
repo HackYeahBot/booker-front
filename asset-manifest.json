@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/booker-front/static/css/main.d56f5abb.chunk.css",
-    "main.js": "/booker-front/static/js/main.e311238a.chunk.js",
-    "main.js.map": "/booker-front/static/js/main.e311238a.chunk.js.map",
+    "main.css": "/booker-front/static/css/main.9cb9e6b0.chunk.css",
+    "main.js": "/booker-front/static/js/main.24a8d99a.chunk.js",
+    "main.js.map": "/booker-front/static/js/main.24a8d99a.chunk.js.map",
     "runtime~main.js": "/booker-front/static/js/runtime~main.90c4134e.js",
     "runtime~main.js.map": "/booker-front/static/js/runtime~main.90c4134e.js.map",
     "static/css/2.8c467cd4.chunk.css": "/booker-front/static/css/2.8c467cd4.chunk.css",
-    "static/js/2.1b498a0e.chunk.js": "/booker-front/static/js/2.1b498a0e.chunk.js",
-    "static/js/2.1b498a0e.chunk.js.map": "/booker-front/static/js/2.1b498a0e.chunk.js.map",
+    "static/js/2.d2bad962.chunk.js": "/booker-front/static/js/2.d2bad962.chunk.js",
+    "static/js/2.d2bad962.chunk.js.map": "/booker-front/static/js/2.d2bad962.chunk.js.map",
     "index.html": "/booker-front/index.html",
-    "precache-manifest.db20b59ef795df24b5075b6d8e03233f.js": "/booker-front/precache-manifest.db20b59ef795df24b5075b6d8e03233f.js",
+    "precache-manifest.bb2397137d6d43cff775dbca57a053a0.js": "/booker-front/precache-manifest.bb2397137d6d43cff775dbca57a053a0.js",
     "service-worker.js": "/booker-front/service-worker.js",
     "static/css/2.8c467cd4.chunk.css.map": "/booker-front/static/css/2.8c467cd4.chunk.css.map",
-    "static/css/main.d56f5abb.chunk.css.map": "/booker-front/static/css/main.d56f5abb.chunk.css.map"
+    "static/css/main.9cb9e6b0.chunk.css.map": "/booker-front/static/css/main.9cb9e6b0.chunk.css.map",
+    "static/media/extras.jpg": "/booker-front/static/media/extras.e9a23645.jpg",
+    "static/media/logo.svg": "/booker-front/static/media/logo.53bbc594.svg",
+    "static/media/plane.jpg": "/booker-front/static/media/plane.4e47808b.jpg"
   }
 }
