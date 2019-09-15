@@ -1,0 +1,40 @@
+.seat-chooser {
+  height: 100%;
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.plane-outer {
+  margin: 40px auto 0;
+  width: 400px;
+  height: 90%;
+  background-color: #d6d6d6;
+  overflow: auto;
+  border-top-left-radius: 200px;
+  border-top-right-radius: 200px;
+}
+
+.plane-inner {
+  box-sizing: border-box;
+  margin: 10px;
+  width: 380px;
+  height: calc(90% - 20px);
+  background-color: #F6F6F6;
+  border-top-left-radius: 200px;
+  border-top-right-radius: 200px;
+}
+
+.seats {
+  display: grid;
+  grid-template-columns: 30px 30px 30px 30px 30px 30px 30px;
+  grid-template-rows: 30px 30px 30px 30px 30px 30px 30px;
+}
+
+.seat {
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+  background-color: blue;
+}

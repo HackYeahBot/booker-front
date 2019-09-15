@@ -26,7 +26,7 @@ const config = [
       'doloremque eveniet incidunt',
     ],
     price: '299',
-    seatsLeft: 1,
+    seatsLeft: 2,
   },
   {
     title: 'Business',

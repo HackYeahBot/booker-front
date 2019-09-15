@@ -2,10 +2,18 @@
   width: 100%;
   padding: 30px 30px 50px;
   text-align: center;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 
 .class-chooser > h2 {
+  color: #3A3A3A;
   margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.class-chooser h3 {
+  color: #252668;
+  font-weight: bold;
 }
 
 .class-chooser__cards-list {
