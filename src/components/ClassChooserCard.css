@@ -1,5 +1,4 @@
 .class-chooser-card {
-  min-height: 400px;
   display: flex;
   flex-direction: column;
   margin: 0 20px;
@@ -40,10 +39,14 @@
 }
 
 .class-chooser-card__perks-list > div > p {
+  color: #C74A70;
+  font-weight: bold;
   margin: 0;
 }
 
 .class-chooser-card__perks-list > div > h2 {
+  color: #969696;
+  font-weight: bold;
   margin: 0;
 }
 

@@ -8,9 +8,11 @@ import SeatChooser from './components/SeatChooser';
 import Baggage from './components/Baggage';
 import Extras from './components/Extras';
 
+import logo from './media/logo.svg';
+
 import './App.css';
 
-const { Header, Content, Footer } = Layout;
+const { Header, Content } = Layout;
 const { Step } = Steps;
 
 const ROUTES = {
@@ -61,7 +63,7 @@ class App extends Component {
     return (
       <Layout>
         <Header className="app__header">
-          <div className="app__logo"/>
+          <div className="app__logo"><img src={logo} alt="LOT logo"/></div>
         </Header>
         <div className="app__steps">
           <Steps current={current} onChange={this.handleOnChange} size='small'>
@@ -79,7 +81,6 @@ class App extends Component {
           <Route path={ROUTES.baggage} component={Baggage}/>
           <Route path={ROUTES.extras} component={Extras}/>
         </Content>
-        <Footer className="app__footer">Created by Orki z Majorki © 2019</Footer>
       </Layout>
     );
   }

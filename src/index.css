@@ -1,5 +1,14 @@
+body {
+  height: 100%;
+}
+
 section.ant-layout {
-  /*background: url('https://d7kexjh30g24v.cloudfront.net/apps/flights-demo-angular/assets/images/bg.jpg') no-repeat bottom;*/
-  /*background-size: cover;*/
-  height: 100vh;
+  background: url('https://images.unsplash.com/photo-1518317507427-5346735246ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80') no-repeat top;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100%;
+}
+
+header.ant-layout-header {
+  background: none;
 }
