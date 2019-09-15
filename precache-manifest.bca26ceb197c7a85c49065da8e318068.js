@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89810292750781ddbc9c977a65832546",
+    "revision": "912589168cc1825a6b42035a1c407ecf",
     "url": "/booker-front/index.html"
   },
   {
-    "revision": "e5ae72eebccdb77a38ea",
+    "revision": "0cf793ddae0a97433e5a",
     "url": "/booker-front/static/css/2.8c467cd4.chunk.css"
   },
   {
-    "revision": "a0491a429b7057ee36fe",
-    "url": "/booker-front/static/css/main.9cb9e6b0.chunk.css"
+    "revision": "a57f56df74fb87fff819",
+    "url": "/booker-front/static/css/main.a41ef6aa.chunk.css"
   },
   {
-    "revision": "e5ae72eebccdb77a38ea",
-    "url": "/booker-front/static/js/2.d2bad962.chunk.js"
+    "revision": "0cf793ddae0a97433e5a",
+    "url": "/booker-front/static/js/2.2543f599.chunk.js"
   },
   {
-    "revision": "a0491a429b7057ee36fe",
-    "url": "/booker-front/static/js/main.f9ff91cd.chunk.js"
+    "revision": "a57f56df74fb87fff819",
+    "url": "/booker-front/static/js/main.6671c220.chunk.js"
   },
   {
     "revision": "29f8bcc98840f431c36f",
