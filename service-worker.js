@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/booker-front/precache-manifest.247bba2667d3bf8cc893851c4597c611.js"
+  "/booker-front/precache-manifest.db20b59ef795df24b5075b6d8e03233f.js"
 );
 
 self.addEventListener('message', (event) => {
