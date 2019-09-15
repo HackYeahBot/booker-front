@@ -8,15 +8,19 @@ import './Baggage.css';
 const config = [
   {
     title: 'Classic',
-    price: '199',
+    price: '19',
+    bags: [23],
   },
   {
     title: 'Plus',
-    price: '299',
+    price: '29',
+    bags: [23, 23],
+    recommended: true,
   },
   {
     title: 'Business',
-    price: '399',
+    price: '39',
+    bags: [32, 32],
   },
 ];
 

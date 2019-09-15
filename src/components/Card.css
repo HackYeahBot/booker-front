@@ -1,15 +1,18 @@
-.class-chooser-card {
+.card {
   display: flex;
   flex-direction: column;
   margin: 0 20px;
+  position: relative;
 }
 
-.class-chooser-card:hover {}
+.card h3 {
+  margin-bottom: 15px;
+}
 
-.class-chooser-card__perks-list {
+.card__perks-list {
   border: 1px solid #ccc;
   padding: 20px 30px;
-  text-align: left;
+  text-align: center;
   flex: 1;
   flex-direction: column;
   display: flex;
@@ -18,39 +21,64 @@
   transition: .2s ease-in-out;
 }
 
-.class-chooser-card__perks-list:hover {
+.card__perks-list:hover,
+.card__perks-list:hover .card__recommendation {
   box-shadow: 2px 2px 10px 1px #ddd;
   cursor: pointer;
 }
 
-.class-chooser-card__perks-list > img {
+.card__perks-list > img {
   max-width: 60px;
 }
 
-.class-chooser-card__perks-list > ul {
+.card__perks-list > ul {
   list-style: none;
   padding: 0;
   margin: 0 0 30px;
+  text-align: left;
 }
 
-.class-chooser-card__perks-list > div {
+.card__perks-list > div:not('.card__imgs') {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0 -30px;
   border-top: 1px solid #ccc;
   padding-top: 20px;
+  margin: 50px -30px 0;
 }
 
-.class-chooser-card__perks-list > div > p {
+.card__perks-list > div > p, h2 {
   margin: 0;
 }
 
-.class-chooser-card__perks-list > div > h2 {
-  margin: 0;
-}
-
-.class-chooser-card__perks-list ul li:before {
+.card__perks-list ul li:before {
   content: '✓';
   margin-right: 10px;
+}
+
+.card__imgs img {
+  margin: 0 20px;
+  max-width: 60px;
+}
+
+.card__imgs h5 {
+  margin-top: 30px;
+  font-weight: 400;
+}
+
+.card__recommendation {
+  position: absolute;
+  bottom: -21px;
+  width: 100%;
+  padding: 10px;
+  font-weight: 500;
+  background: #C74A70;
+  color: #fff;
+  border-radius: 0 0 5px 5px;
+}
+
+.card__seats {
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+  margin: 20px -30px 0;
 }

@@ -36,7 +36,7 @@ class Scenario extends Component {
 
     return (
       <Dropdown overlay={menu}>
-        <Button size='large'>
+        <Button size='large' style={{ margin: '30vh 0'}}>
           Choose scenario <Icon type="down"/>
         </Button>
       </Dropdown>
