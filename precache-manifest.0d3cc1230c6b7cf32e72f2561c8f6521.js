@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "851cb64d7c812f8da985b1e6689ec080",
+    "revision": "38627d0dbcc620e48b06f55c7b642650",
     "url": "/booker-front/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/booker-front/static/css/2.8c467cd4.chunk.css"
   },
   {
-    "revision": "647546c50dbaf9d92024",
+    "revision": "2302e376e41849b26042",
     "url": "/booker-front/static/css/main.b398dd0c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/booker-front/static/js/2.b8965a22.chunk.js"
   },
   {
-    "revision": "647546c50dbaf9d92024",
-    "url": "/booker-front/static/js/main.592263b0.chunk.js"
+    "revision": "2302e376e41849b26042",
+    "url": "/booker-front/static/js/main.65ecad18.chunk.js"
   },
   {
     "revision": "29f8bcc98840f431c36f",
