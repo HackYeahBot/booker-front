@@ -1,0 +1,54 @@
+.class-chooser {
+  height: 100%;
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+}
+
+.class-chooser > h2 {
+  margin-bottom: 40px;
+}
+
+.class-chooser__cards-list {
+  display: flex;
+  justify-content: space-around;
+  height: 80%;
+}
+
+.class-chooser__perks-list {
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: left;
+  flex: 1;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+
+.class-chooser__perks-list > ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 30px;
+}
+
+.class-chooser__perks-list > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.class-chooser__perks-list > div > h2 {
+  margin: 0;
+}
+
+.class-chooser__perks-list ul li:before {
+  content: '✓';
+  margin-right: 10px;
+}
+
+.class-chooser__card {
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+}

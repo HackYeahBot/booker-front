@@ -1,13 +1,5 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+section.ant-layout {
+  /*background: url('https://d7kexjh30g24v.cloudfront.net/apps/flights-demo-angular/assets/images/bg.jpg') no-repeat bottom;*/
+  /*background-size: cover;*/
+  height: 100vh;
 }
