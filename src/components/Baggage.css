@@ -1,0 +1,20 @@
+.baggage {
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+}
+
+.baggage > h2 {
+  margin-bottom: 10px;
+}
+
+.baggage > h4 {
+  margin-bottom: 40px;
+  font-weight: 400;
+}
+
+.baggage__cards-list {
+  display: flex;
+  justify-content: space-around;
+  height: 80%;
+}
